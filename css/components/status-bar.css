@@ -24,3 +24,8 @@
 .status-bar__column .fa-battery-half {
   margin: 0px 5px;
 }
+.status-bar__column__dot {
+  position: absolute;
+  right: -8px;
+  top: -8px;
+}
